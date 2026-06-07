@@ -9,8 +9,7 @@ I am learning cybersecurity through TryHackMe.
 ## Rooms Completed
 | Room Name  | Difficulty | Category |
 |------------|-----------|----------|
-SOC L1 Alert | Easy      |  SOC     |
-Reporting
+SOC L1 Alert Reporting| Easy      |  SOC     |
 
 ## Skills I Learned
 - Nmap scanning
