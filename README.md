@@ -10,7 +10,7 @@ I am learning cybersecurity through TryHackMe.
 | Room Name  | Difficulty | Category |
 |------------|-----------|----------|
 SOC L1 Alert Reporting| Easy      |  SOC     |
-
+Introduction to ERD | Easy        | soc      |
 ## Skills I Learned
 - Nmap scanning
 - Burp Suite
