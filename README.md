@@ -11,6 +11,7 @@ I am learning cybersecurity through TryHackMe.
 |------------|-----------|----------|
 SOC L1 Alert Reporting| Easy      |  SOC     |
 Introduction to ERD | Easy        | soc      |
+Introduction to SIEM | Easy       | SOC      |
 ## Skills I Learned
 - Nmap scanning
 - Burp Suite
