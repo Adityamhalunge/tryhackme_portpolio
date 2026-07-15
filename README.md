@@ -10,11 +10,11 @@ I am learning cybersecurity through TryHackMe.
 |Path| Room Name  | Difficulty | Category |
 |----|------------|-----------|----------|
 |soc|
- |SOC L1 Alert Reporting| Easy      |  SOC     |
- |Introduction to ERD | Easy        | soc      |
- |Introduction to SIEM | Easy       | SOC      |
+ 1|SOC L1 Alert Reporting| Easy      |  SOC     |
+ 2|Introduction to ERD | Easy        | soc      |
+ 3|Introduction to SIEM | Easy       | SOC      |
 |compTIA pentest|
- |nmap basic port sacn | Easy  | Pentest |
+ 1|nmap basic port sacn | Easy  | Pentest |
 
 ## Skills I Learned
 - Nmap scanning
