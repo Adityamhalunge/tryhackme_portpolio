@@ -15,6 +15,7 @@ I am learning cybersecurity through TryHackMe.
  3|Introduction to SIEM | Easy       | SOC      |
 |compTIA pentest|
  1|nmap basic port sacn | Easy  | Pentest |
+ 2|phishing             |medium | pentest|
 
 ## Skills I Learned
 - Nmap scanning
