@@ -16,6 +16,8 @@ I am learning cybersecurity through TryHackMe.
 |compTIA pentest|
  1|nmap basic port sacn | Easy  | Pentest |
  2|phishing             |medium | pentest|
+ 3|nmap advance scan    |medium | pentest|
+ 4|OWASP Juice Shop     |easy   | pentest|
 
 ## Skills I Learned
 - Nmap scanning
